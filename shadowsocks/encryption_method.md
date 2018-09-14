@@ -1,0 +1,3 @@
+## Encryption Method {#encryption-method}
+
+The strongest option is an [AEAD cipher](http://shadowsocks.org/en/spec/AEAD-Ciphers.html). The recommended choice is &quot;chacha20-ietf-poly1305&quot; or &quot;aes-256-gcm&quot;. Other [stream ciphers](http://shadowsocks.org/en/spec/Stream-Ciphers.html) are implemented but do not provide integrity and authenticity. Unless otherwise specified the encryption method defaults to &quot;table&quot;, which is **not secure**.

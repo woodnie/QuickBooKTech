@@ -1,0 +1,1 @@
+## 基于缓存的 AST 使用广为人知的缓存方式将热数据“提升”到高性能的介质中。由于 HDD 上仍保留有数据的副本，因此当数据变“冷”时，只需将其从缓存中释放即可，而不需要额外的 HDD I/O。对应于[VNX](http://www.storageonline.com.cn/tag/vnx/)的[FAST](http://www.storageonline.com.cn/tag/fast/) Cache。 {#ast-hdd-hdd-i-o-vnx-fast-cache}

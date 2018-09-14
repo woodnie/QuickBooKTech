@@ -1,0 +1,3 @@
+### Setting up {#setting-up}
+
+You need a Perl interpreter to execute Perl program. Any Unix like system , including Linux and Mac OS X, has Perl pre-installed. Windows does not have Perl installed by default, you need to install Strawberry Perl.The source code is available on CPAN and github. Download from CPAN [https://metacpan.org/release/Net-Shadowsocks](https://metacpan.org/release/Net-Shadowsocks) or download from github [https://github.com/zhou0/shadowsocks-perl](https://github.com/zhou0/shadowsocks-perl)

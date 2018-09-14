@@ -1,0 +1,3 @@
+# Wiki {#wiki}
+
+vimwiki
